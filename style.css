@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: thistle;
+}
+.container{
+    width: 550px;
+    height: 400px;
+    margin:100px 400px;
+    background-color: white;
+    text-align: center;
+    padding:10px;
+}
+input{
+    margin:20px 0px;
+}
+.class{
+    margin:0px 15px 0px 0px;
+}
+.class1{
+    margin:0px 15px; 
+}
